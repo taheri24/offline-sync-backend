@@ -1,0 +1,1 @@
+go build    -ldflags "-s -w" -o ./build/publish-server.bin ./main.go
